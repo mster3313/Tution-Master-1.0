@@ -47,7 +47,6 @@ public class CourseManagerTest {
         instance.retrieveData();
        
     }
-
     /**
      * Test of searchCourse method, of class CourseManager.
      */

@@ -36,7 +36,7 @@ public class CardMarker extends javax.swing.JFrame {
     private String studentName, currentBarcode, fullname, address, dob, email, nic, cardType, registerDate, guardianPhoneNo, guardianName, mobile, tele;
     private boolean payment;
     private int currentStudentCount, nowWhere;
-    private static final int NEXT=1,PREVIOUS=2,DEFAULT_DATA=1,NEW_DATA=2;
+    public static final int NEXT=1,PREVIOUS=2,DEFAULT_DATA=1,NEW_DATA=2;
     private static CardMarker instance=new CardMarker();
     private int stu_ID ,classCalendarID;
        

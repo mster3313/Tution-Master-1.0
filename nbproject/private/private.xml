@@ -2,6 +2,26 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/notifications/SavedStatusNoticeTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/coursesmanagement/InstituteEditorTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/notifications/WarningMessageTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/studentmanagement/ApplicationViewTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/studentmanagement/StudentRegistryTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/usermanagement/VerificationTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/studentmanagement/CardMarkingStartupScreenTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/studentmanagement/CardMarkerTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/coursesmanagement/CourseManagerTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/main/DashBordTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/coursesmanagement/InstituteTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/src/coursesmanagement/Institute.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/src/coursesmanagement/NewCourse.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/coursesmanagement/PaymentManagerTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/notifications/MessageTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/studentmanagement/NewApplicationTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/coursesmanagement/CoursesSelectorTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/coursesmanagement/NewCourseTest.java</file>
+            <file>file:/D:/CO/My%20Projects/Tution-Master-1.0/test/main/KeyboardTest.java</file>
+        </group>
     </open-files>
 </project-private>
